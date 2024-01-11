@@ -14,6 +14,7 @@ Texto de ejemplo para **Titulo2**
 ---
 
 |COL1       |COL2       |COL3       |
+|-----------|-----------|-----------|
 |A          |B          |C          |
 
  ```bash
