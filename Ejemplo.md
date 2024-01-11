@@ -13,10 +13,8 @@ Texto de ejemplo para **Titulo2**
 
 ---
 
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|COL1       |COL2       |COL3       |
+|A          |B          |C          |
 
  ```bash
 ls -lah
